@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Irene Gathoni
 
-<!--
-**Irenegathoni/irenegathoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst based in Nyahururu, Kenya, passionate about transforming raw data into clear, actionable insights. I use tools like Excel, Power BI, Python, and SQL to explore patterns, build dashboards, and solve real-world problems — one project at a time.
 
-Here are some ideas to get you started:
+## What I Do
+- Analyze datasets across domains like music, finance, and housing
+- Build end-to-end data projects with storytelling at the core
+- Learn and apply machine learning techniques to deepen analysis
+- Practice NLP with a creative twist (sentiment analysis, LLM integration, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm Currently Focused On
+- Building a portfolio of diverse data projects
+- Exploring how data can drive better decisions in creative and business spaces
+- Mastering Power BI and Python
+
+## Fun Facts
+- I love crocheting and often code with yarn in one hand and coffee in the other
+- I once bought a toy camera by accident and still use it like it’s vintage gold
+
+## Get in Touch
+Email: irenegnjogu003@gmail.com  
+GitHub: [@irenegathoni](https://github.com/irenegathoni)  
+LinkedIn: [Irene Njogu](https://linkedin.com/in/irene-njogu-661a4b298)
