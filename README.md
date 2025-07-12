@@ -1,6 +1,6 @@
 # Hi there, I'm Irene Gathoni
 
-I'm a Data Analyst based in Nyahururu, Kenya, passionate about transforming raw data into clear, actionable insights. I use tools like Excel, Power BI, Python, and SQL to explore patterns, build dashboards, and solve real-world problems — one project at a time.
+I'm a Data Analyst based in Nyahururu, Kenya, passionate about transforming raw data into clear, actionable insights. I use tools like Excel, Power BI, Python, and SQL to explore patterns, build dashboards, and solve real-world problems ,one project at a time.
 
 ## What I Do
 - Analyze datasets across domains like music, finance, and housing
