@@ -1,17 +1,34 @@
-# Hi there, I'm Irene Gathoni
+# Hi there, I'm Irene Gathoni Njogu!
 
-I'm a Data Analyst based in Nyahururu, Kenya, passionate about transforming raw data into clear, actionable insights. I use tools like Excel, Power BI, Python, and SQL to explore patterns, build dashboards, and solve real-world problems ,one project at a time.
+I'm a **Software Engineer** specializing in developing robust, scalable **Backend Systems** and **Intelligent Applications**.
 
-## What I Do
-- Analyze datasets across domains like music, finance, and housing
-- Build end-to-end data projects with storytelling at the core
-- Learn and apply machine learning techniques to deepen analysis
-- Practice NLP with a creative twist (sentiment analysis, LLM integration, etc.)
+[cite_start]My expertise lies in translating business needs into well-engineered solutions using Python (FastAPI, Flask), PHP (Laravel), and SQL[cite: 6, 10, 11]. [cite_start]I focus on clean architecture, secure API design, and leveraging applied machine learning to deliver measurable impact[cite: 6, 7, 14].
 
-## I'm Currently Focused On
-- Building a portfolio of diverse data projects
-- Exploring how data can drive better decisions in creative and business spaces
-- Mastering Power BI and Python
+---
+
+###  Core Skills & Expertise (What I Build)
+
+* [cite_start]**RESTful API Development:** Engineering secure, scalable backend services (Python/FastAPI) and implementing user authentication via JWT and Bcrypt hashing[cite: 16, 17].
+* [cite_start]**Applied Machine Learning:** Designing, training, and deploying predictive models that integrate with web interfaces (e.g., Flask API with Laravel) for dynamic inference[cite: 24, 27].
+* [cite_start]**Clean Architecture & DevOps:** Implementing clean code principles, Test-Driven Development (TDD), and containerizing applications using Docker for streamlined deployment[cite: 14, 21].
+* [cite_start]**Data Engineering:** Designing ETL pipelines and implementing multi-layer PostgreSQL architecture (Source, Staging, Warehouse) for data quality and analytics[cite: 31, 35].
+
+###  Technical Toolkit
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, PHP, SQL (PostgreSQL, MySQL), JavaScript [cite: 10] |
+| **Frameworks** | [cite_start]FastAPI, Flask, Laravel, Streamlit [cite: 11] |
+| **Databases** | [cite_start]PostgreSQL, MySQL, SQL Server [cite: 12] |
+| **Tools & Concepts** | [cite_start]Docker, Git, GitHub, RESTful API Development, ETL, Clean Architecture [cite: 13, 14] |
+
+###  Current Focus
+
+* **Scaling Backend Systems:** Deepening expertise in cloud deployment and microservices architecture.
+* **Advanced ML Deployment:** Researching MLOps practices to enhance the reliability and monitoring of production machine learning models.
+* **TDD and Code Quality:** Further integrating Test-Driven Development (TDD) principles into all new API projects.
+
+---
 
 ## Fun Facts
 - I love crocheting and often code with yarn in one hand and coffee in the other
