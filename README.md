@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** specializing in developing robust, scalable **Backend Systems** and **Intelligent Applications**.
 
-My expertise lies in translating business requirements into well-engineered solutions using Python (FastAPI, Flask), PHP (Laravel), and SQL. I focus on clean architecture, secure API design, and leveraging applied machine learning to deliver measurable project impact.
+My expertise lies in translating business requirements into well-engineered solutions using Python (FastAPI, Flask), PHP (Laravel), Java (Spring Boot) and SQL. I focus on clean architecture, secure API design, and leveraging applied machine learning to deliver measurable project impact.
 
 ---
 
@@ -17,8 +17,8 @@ My expertise lies in translating business requirements into well-engineered solu
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Python, PHP, SQL (PostgreSQL, MySQL), JavaScript |
-| **Frameworks** | FastAPI, Flask, Laravel, Streamlit |
+| **Languages** | Python, PHP, SQL (PostgreSQL, MySQL), Java |
+| **Frameworks** | FastAPI, Flask, Laravel, Streamlit, Spring Boot |
 | **Databases** | PostgreSQL, MySQL, SQL Server |
 | **Tools & Concepts** | Docker, Git, GitHub, RESTful API Development, ETL, Clean Architecture |
 
